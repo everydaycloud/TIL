@@ -23,3 +23,8 @@ https://github.com/everydaycloud/TIL/blob/main/global-gitignore.md 22.02.2024
 
 Resolving merge conflicts
 https://github.com/everydaycloud/TIL/blob/main/resolving-merge-conflicts.md 22.02.2024
+
+## Pytest
+
+Useful Pytest details
+https://github.com/everydaycloud/TIL/blob/main/pytest-useful-commands.md 22.02.2024
