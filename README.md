@@ -10,6 +10,9 @@ https://github.com/everydaycloud/TIL/blob/main/Useful-Commands.md 15.02.2024
 Useful at First Installation
 https://github.com/everydaycloud/TIL/blob/main/First-Installation.md 15.02.2024
 
+Playground.sql - testing SQL queries
+https://github.com/everydaycloud/TIL/blob/main/playground-SQL.md
+
 ## Git & Github
 
 Creating a good PR
