@@ -55,7 +55,3 @@ change then edit the previous commit that related to it. See below.
 8. Remember to pull from main to stay up to date using
 
        git pull origin main 
-
-# Fixing PR problems 
-
-1. 
