@@ -11,7 +11,7 @@ Useful at First Installation
 https://github.com/everydaycloud/TIL/blob/main/First-Installation.md 15.02.2024
 
 Playground.sql - testing SQL queries
-https://github.com/everydaycloud/TIL/blob/main/playground-SQL.md
+https://github.com/everydaycloud/TIL/blob/main/playground-SQL.md 22.02.2024
 
 ## Git & Github
 
