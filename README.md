@@ -9,3 +9,9 @@ https://github.com/everydaycloud/TIL/blob/main/Useful-Commands.md 15.02.2024
 
 Useful at First Installation
 https://github.com/everydaycloud/TIL/blob/main/First-Installation.md 15.02.2024
+
+## Git & Github
+
+Creating a good PR
+https://github.com/everydaycloud/TIL/blob/main/creating-a-good-PR.md 22.02.2024
+
