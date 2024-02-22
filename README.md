@@ -28,3 +28,8 @@ https://github.com/everydaycloud/TIL/blob/main/resolving-merge-conflicts.md 22.0
 
 Useful Pytest details
 https://github.com/everydaycloud/TIL/blob/main/pytest-useful-commands.md 22.02.2024
+
+## JavaScript & TypeScript
+
+?. and ?? operators
+https://github.com/everydaycloud/TIL/blob/main/%3F.-and-%3F%3F.md 22.02.2024
