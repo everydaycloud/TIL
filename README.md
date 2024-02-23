@@ -5,6 +5,9 @@
 Useful Commands
 https://github.com/everydaycloud/TIL/blob/main/Useful-Commands.md 15.02.2024
 
+Search through past terminal commands
+https://github.com/everydaycloud/TIL/blob/main/search-terminal-commands.md 23.02.2024
+
 ## Postgres
 
 Useful at First Installation
