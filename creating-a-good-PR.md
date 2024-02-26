@@ -6,10 +6,11 @@
 
 2. Remove any comments or console.logs
 3. In the backend folder run
+
         pdm run format
         pdm run lint
 
-4. In one of the frontend folders run
+5. In one of the frontend folders run
 
         npm run format
         npm run lint
