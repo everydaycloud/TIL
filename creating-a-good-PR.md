@@ -5,7 +5,11 @@
         git checkout -b <branch-name>
 
 2. Remove any comments or console.logs
-3. Run 
+3. In the backend folder run
+        pdm run format
+        pdm run lint
+
+4. In one of the frontend folders run
 
         npm run format
         npm run lint
@@ -13,13 +17,13 @@
 The first one will nicely format your code and the second will make 
 sure that there isn't anything extra that shouldn't be there.
 
-4. Stage files to commit
+5. Stage files to commit
 
        git add .
    OR
        git add <specific-file>
 
-5. Make sure that in your ~/.gitconfig file looks like this with the
+6. Make sure that in your ~/.gitconfig file looks like this with the
    --wait flag present next to editor. And get the GitLens extension in VSCode. In order to edit the .gitconfig file type
 
        nano ~/.gitconfig
@@ -30,7 +34,7 @@ sure that there isn't anything extra that shouldn't be there.
 
             code --wait
 
-6. If that's set up then go for
+7. If that's set up then go for
 
        git commit
 
@@ -43,7 +47,7 @@ sure that there isn't anything extra that shouldn't be there.
    The comment in the message should explain why the change was made. It should be clear even if you revisit
    the message in the future. The code itself should demonstrate what was done.
 
-7. Use
+8. Use
 
        git push origin <branch-name>
 
@@ -52,6 +56,6 @@ sure that there isn't anything extra that shouldn't be there.
 IMPORTANT - keep it to one commit per change, so if you are tweaking something you did, but it's not a separate 
 change then edit the previous commit that related to it. See below. 
 
-8. Remember to pull from main to stay up to date using
+9. Remember to pull from main to stay up to date using
 
        git pull origin main 
