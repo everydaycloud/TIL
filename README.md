@@ -39,3 +39,8 @@ https://github.com/everydaycloud/TIL/blob/main/pytest-useful-commands.md 22.02.2
 
 ?. and ?? operators
 https://github.com/everydaycloud/TIL/blob/main/%3F.-and-%3F%3F.md 22.02.2024
+
+## Other
+
+Update dependencies/ Dependencies maintenance
+https://github.com/everydaycloud/TIL/blob/main/update-dependencies.md
