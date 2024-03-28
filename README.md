@@ -47,5 +47,8 @@ https://github.com/everydaycloud/TIL/blob/main/toasts-and-setError-hook.md 25.03
 
 ## Other
 
+Component vs Page 
+https://github.com/everydaycloud/TIL/blob/main/component-vs-page.md 25.03.2024
+
 Update dependencies/ Dependencies maintenance
 https://github.com/everydaycloud/TIL/blob/main/update-dependencies.md
