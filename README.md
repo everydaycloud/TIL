@@ -58,10 +58,18 @@ https://github.com/everydaycloud/TIL/blob/main/%3F.-and-%3F%3F.md 22.02.2024
 Error Handling - Toasts and setError hook
 https://github.com/everydaycloud/TIL/blob/main/toasts-and-setError-hook.md 25.03.2024
 
+UX Testing Browsers 
+https://github.com/everydaycloud/TIL/blob/main/ux_testing_browsers.md 04.08.2024
+
 ## React
 
 React Hooks and Early Returns
 https://github.com/everydaycloud/TIL/blob/main/react_hooks_early_returns.md 08.04.2024
+
+## Terraform
+
+Terraform File Structure
+https://github.com/everydaycloud/TIL/blob/main/terraform_file_structure.md 08.04.2024
 
 ## Other
 
