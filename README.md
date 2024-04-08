@@ -16,6 +16,9 @@ https://github.com/everydaycloud/TIL/blob/main/First-Installation.md 15.02.2024
 Playground.sql - testing SQL queries
 https://github.com/everydaycloud/TIL/blob/main/playground-SQL.md 22.02.2024
 
+Postgres Empty Tables
+https://github.com/everydaycloud/TIL/blob/main/postgres_empty_tables.md 08.04.2024
+
 ## Git & Github
 
 Creating a good PR
