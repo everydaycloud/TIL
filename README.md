@@ -1,12 +1,22 @@
 # TIL
 
+## Further Learning
+
+Further learning 
+https://github.com/everydaycloud/TIL/blob/main/further_learning.md 08.04.2024
+
 ## Terminal 
+
+Search through past terminal commands
+https://github.com/everydaycloud/TIL/blob/main/search-terminal-commands.md 23.02.2024
 
 Useful Commands
 https://github.com/everydaycloud/TIL/blob/main/Useful-Commands.md 15.02.2024
 
-Search through past terminal commands
-https://github.com/everydaycloud/TIL/blob/main/search-terminal-commands.md 23.02.2024
+## Backend
+
+Migrations
+https://github.com/everydaycloud/TIL/blob/main/migrations.md 08.04.2024
 
 ## Postgres
 
