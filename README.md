@@ -15,8 +15,14 @@ https://github.com/everydaycloud/TIL/blob/main/Useful-Commands.md 15.02.2024
 
 ## Backend
 
+Data classes in 'models'
+https://github.com/everydaycloud/TIL/blob/main/data_classes_in_models.md 01.05.2024
+
 Migrations
 https://github.com/everydaycloud/TIL/blob/main/migrations.md 08.04.2024
+
+The purpose of __init__.py file
+https://github.com/everydaycloud/TIL/blob/main/the__init__file.md 01.05.2024
 
 ## Postgres
 
