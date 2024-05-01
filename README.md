@@ -21,6 +21,9 @@ https://github.com/everydaycloud/TIL/blob/main/data_classes_in_models.md 01.05.2
 Migrations
 https://github.com/everydaycloud/TIL/blob/main/migrations.md 08.04.2024
 
+Testing webhooks locally / Ngrok 
+https://github.com/everydaycloud/TIL/blob/main/testing_webhooks_locally.md 01.05.2024
+
 The purpose of __init__.py file
 https://github.com/everydaycloud/TIL/blob/main/the__init__file.md 01.05.2024
 
@@ -74,8 +77,8 @@ https://github.com/everydaycloud/TIL/blob/main/react_hooks_early_returns.md 08.0
 
 ## Terraform
 
-Terraform File Structure
-https://github.com/everydaycloud/TIL/blob/main/terraform_file_structure.md 08.04.2024
+Terraform File Structure & Formatting
+https://github.com/everydaycloud/TIL/blob/main/terraform_file_structure.md 01.05.2024
 
 ## Other
 
