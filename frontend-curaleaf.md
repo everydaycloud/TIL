@@ -1,0 +1,5 @@
+- Margins only at the bottom and only multiples of 2
+- Avoid grids unless you really need them
+- As few DOM elements as possible to keep it small
+- No extra styling unless necessary
+- Minimal number of sematic html elements
