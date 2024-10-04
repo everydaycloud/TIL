@@ -67,6 +67,9 @@ https://github.com/everydaycloud/TIL/blob/main/number-files-to-pick-for-commit.m
 Resolving merge conflicts
 https://github.com/everydaycloud/TIL/blob/main/resolving-merge-conflicts.md 22.02.2024
 
+Revert all uncommitted changes
+https://github.com/everydaycloud/TIL/blob/main/revert-all-uncommitted-changes.md
+
 ## Pytest
 
 Useful Pytest details
