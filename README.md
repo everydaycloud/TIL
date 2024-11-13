@@ -21,6 +21,9 @@ https://github.com/everydaycloud/TIL/blob/main/data_classes_in_models.md 01.05.2
 Migrations
 https://github.com/everydaycloud/TIL/blob/main/migrations.md 08.04.2024
 
+Raising Errors in Python and Quart 
+https://github.com/everydaycloud/TIL/blob/main/raising-errors-python-quart.md 13.11.2024
+
 Testing webhooks locally / Ngrok 
 https://github.com/everydaycloud/TIL/blob/main/testing_webhooks_locally.md 01.05.2024
 
@@ -32,6 +35,11 @@ https://github.com/everydaycloud/TIL/blob/main/the__init__file.md 01.05.2024
 
 V0 vs V1 Api
 https://github.com/everydaycloud/TIL/blob/main/V0-vs-V1-api-curaleaf.md 28.06.2024
+
+## Python 
+
+locals() function call
+https://github.com/everydaycloud/TIL/blob/main/locals().md 13.11.2024
 
 ## Postgres
 
