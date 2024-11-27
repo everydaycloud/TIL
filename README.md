@@ -36,6 +36,14 @@ https://github.com/everydaycloud/TIL/blob/main/the__init__file.md 01.05.2024
 V0 vs V1 Api
 https://github.com/everydaycloud/TIL/blob/main/V0-vs-V1-api-curaleaf.md 28.06.2024
 
+## Concepts
+
+Cyclomatic complexity
+https://github.com/everydaycloud/TIL/blob/main/cyclomatic-complexity.md 27.11.2024
+
+Make invalid states irrerpresentable
+https://github.com/everydaycloud/TIL/blob/main/invalid-states.md 27.11.2024
+
 ## Python 
 
 locals() function call
@@ -51,6 +59,12 @@ https://github.com/everydaycloud/TIL/blob/main/playground-SQL.md 22.02.2024
 
 Postgres Empty Tables
 https://github.com/everydaycloud/TIL/blob/main/postgres_empty_tables.md 08.04.2024
+
+SELECT 1 vs SELECT EXISTS
+https://github.com/everydaycloud/TIL/blob/main/select-1-vs-select-exists.md 27.11.2024
+
+Select FOR UPDATE & quart 
+https://github.com/everydaycloud/TIL/blob/main/sql-FOR-UPDATE-and-quart-connection-iterate.md 27.11.2024
 
 ## Git & Github
 
@@ -71,6 +85,9 @@ https://github.com/everydaycloud/TIL/blob/main/move-commit-to-another-branch.md 
 
 Number files to easily add them to a commit
 https://github.com/everydaycloud/TIL/blob/main/number-files-to-pick-for-commit.md 28.06.2024
+
+Redeploy previous version
+https://github.com/everydaycloud/TIL/blob/main/roll-back-latest-commit.md 27.11.2024
 
 Resolving merge conflicts
 https://github.com/everydaycloud/TIL/blob/main/resolving-merge-conflicts.md 22.02.2024
@@ -96,6 +113,9 @@ https://github.com/everydaycloud/TIL/blob/main/frontend-curaleaf.md 28.06.2024
 Error Handling - Toasts and setError hook
 https://github.com/everydaycloud/TIL/blob/main/toasts-and-setError-hook.md 25.03.2024
 
+Signal in queries 
+https://github.com/everydaycloud/TIL/blob/main/signal-in-queries.md 27.11.2024
+
 UX Testing Browsers 
 https://github.com/everydaycloud/TIL/blob/main/ux_testing_browsers.md 04.08.2024
 
@@ -103,6 +123,9 @@ https://github.com/everydaycloud/TIL/blob/main/ux_testing_browsers.md 04.08.2024
 
 React Hooks and Early Returns
 https://github.com/everydaycloud/TIL/blob/main/react_hooks_early_returns.md 08.04.2024
+
+React state change batching
+https://github.com/everydaycloud/TIL/blob/main/react-state-change-batching.md 27.11.2024
 
 ## Terraform
 
