@@ -13,3 +13,7 @@ Sometimes if something can't be found it's because the path needs to be updated 
 
   echo $PATH
 
+
+# Generate a new random uuid (updated 21.05.2025)
+
+  uuidgen
