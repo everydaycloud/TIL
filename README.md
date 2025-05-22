@@ -1,6 +1,14 @@
 # TIL
 
+## System Design
+
+Curaleaf Architecture - system design
+https://github.com/everydaycloud/TIL/blob/main/our-architecture.md 21.05.2025
+
 ## Further Learning
+
+Good interview questions 
+https://github.com/everydaycloud/TIL/blob/main/interview-questions.md 21.05.2025
 
 Further learning 
 https://github.com/everydaycloud/TIL/blob/main/further_learning.md 08.04.2024
@@ -14,6 +22,9 @@ Useful Commands
 https://github.com/everydaycloud/TIL/blob/main/Useful-Commands.md 15.02.2024
 
 ## Backend
+
+Our SSO 
+https://github.com/everydaycloud/TIL/blob/main/our-SSO.md 21.05.2025
 
 Data classes in 'models'
 https://github.com/everydaycloud/TIL/blob/main/data_classes_in_models.md 01.05.2024
@@ -48,6 +59,9 @@ https://github.com/everydaycloud/TIL/blob/main/invalid-states.md 27.11.2024
 
 locals() function call
 https://github.com/everydaycloud/TIL/blob/main/locals().md 13.11.2024
+
+zip() 
+https://github.com/everydaycloud/TIL/blob/main/zip()-in-python.md 21.05.2025
 
 ## Postgres
 
@@ -127,10 +141,19 @@ https://github.com/everydaycloud/TIL/blob/main/react_hooks_early_returns.md 08.0
 React state change batching
 https://github.com/everydaycloud/TIL/blob/main/react-state-change-batching.md 27.11.2024
 
-## Terraform
+## Infrastructure - Docker, Terraform, CI/CD, AWS
+
+Aioboto3 test server code 
+https://github.com/everydaycloud/TIL/blob/main/aioboto3-server-for-testing.md 21.05.2025
+
+Commands for running Docker locally 
+https://github.com/everydaycloud/TIL/blob/main/running-docker-locally.md 21.05.2025
 
 Terraform File Structure & Formatting
 https://github.com/everydaycloud/TIL/blob/main/terraform_file_structure.md 01.05.2024
+
+Our deployment flow
+https://github.com/everydaycloud/TIL/blob/main/our-deployment.md 21.05.2025
 
 ## Other
 
@@ -139,3 +162,8 @@ https://github.com/everydaycloud/TIL/blob/main/component-vs-page.md 25.03.2024
 
 Update dependencies/ Dependencies maintenance
 https://github.com/everydaycloud/TIL/blob/main/update-dependencies.md
+
+## Sync vs Async
+
+Sync vs Async Requests and how they are converted into the same universal syntax
+https://github.com/everydaycloud/TIL/blob/main/async-vs-sync-and-requests.md 21.05.2025
