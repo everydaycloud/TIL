@@ -65,6 +65,9 @@ https://github.com/everydaycloud/TIL/blob/main/zip()-in-python.md 21.05.2025
 
 ## Postgres
 
+NOT NULL enums in tables
+https://github.com/everydaycloud/TIL/blob/main/NOT-NULL-enums-in-tables.md 21.05.2025
+
 Useful at First Installation
 https://github.com/everydaycloud/TIL/blob/main/First-Installation.md 15.02.2024
 
