@@ -2,7 +2,7 @@
 
 
 ## Does the webhook endpoint live on a subdomain?
-Like "api" in api.curaleafclinic.com/v1/stripe ?
+Like "api" in api.example.com/v1/stripe ?
 If yes:
 
 In the terminal type 
