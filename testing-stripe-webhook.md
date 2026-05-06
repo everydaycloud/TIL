@@ -28,6 +28,15 @@ Once you see the sandbox dashboard, copy the secret key and paste it in developm
 
     CURA_STRIPE_API_KEY="sk_test_7634598752689"
 
+If testing payments on the frontend, go to stripe.ts in whichever frontend this applies
+to and add the Sandbox public key there that matches the backend secret key for that Sandbox.
+If there's one already there, replace it with the one you're using now.
+
+    export const STRIPE_KEY = import.meta.env.DEV
+      ? "pk_test_51"
+      : "pk_live_51";
+
+
 2. Install the Stripe CLI and log in
 https://docs.stripe.com/stripe-cli
 
