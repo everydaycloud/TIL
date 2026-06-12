@@ -83,6 +83,9 @@ https://github.com/everydaycloud/TIL/blob/main/select-1-vs-select-exists.md 27.1
 Select FOR UPDATE & quart 
 https://github.com/everydaycloud/TIL/blob/main/sql-FOR-UPDATE-and-quart-connection-iterate.md 27.11.2024
 
+Export postgres data to csv on local machine
+https://github.com/everydaycloud/TIL/blob/main/export_data_from_postgres_to_csv.md 12.06.2026
+
 ## Git & Github
 
 Creating a good PR
