@@ -65,6 +65,9 @@ https://github.com/everydaycloud/TIL/blob/main/zip()-in-python.md 21.05.2025
 
 ## Postgres
 
+Execute many to speed up data inserts 
+https://github.com/everydaycloud/TIL/blob/main/execute_many_to_speed_up_db_inserts.md 18.06.2026
+
 NOT NULL enums in tables
 https://github.com/everydaycloud/TIL/blob/main/NOT-NULL-enums-in-tables.md 21.05.2025
 
